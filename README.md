@@ -6,4 +6,10 @@
 
 ``` javascript
 
+{
+name: "Abhishek",
+place: "Jaipur"
+}
+
+
 ```
